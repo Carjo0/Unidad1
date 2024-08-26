@@ -1,0 +1,21 @@
+body{
+    background-color: brown;
+    text-align: center;
+
+}
+h1{
+    color: aqua;
+}
+.Receta{
+    color: aliceblue;
+}
+.lista1{
+    list-style-type: none;
+}
+
+#foto1{
+    margin: 20px;
+    border-color: aquamarine;
+    border-radius: 10px; /*Nos permite darle contorno a la imagen*/
+    border-style: solid;
+}
